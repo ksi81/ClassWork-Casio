@@ -1,0 +1,80 @@
+.parent0 {
+  width: 280px;
+  min-height: 20px;
+  background: #1111;
+  padding: 20px;
+}
+.parent {
+  width: 280px;
+  min-height: 20px;
+  border-color:  teal;
+  border-radius: 10px;
+  border:3px solid teal;
+  font-style: arial, sans-serif;
+  padding-bottom: 10px;
+}
+
+.row1 {
+  width: 280px;
+  height: 40px;
+  float: left;
+  background-color: teal;
+  margin-top: 15px;
+   text-align: right;
+}
+
+span {
+  color: white;
+  line-height: 40px;
+  padding-right: 5px;
+
+}
+
+.row2 {
+  width: 240px;
+  height: 40px;
+  float: left;
+  border-color: teal;
+  margin-top: 15px
+}
+input{
+    display: block;
+    height: 40px;
+    border-radius: 10px;
+    border: 3px solid teal;
+    margin: 0 5px 0 5px;
+    width: 109%;
+    text-align: right;
+    font-size: 28px;
+  font-weight: bold;
+  color: teal;
+}
+
+.row3 {
+       width: 150px;
+    height: 40px;
+    float: left;
+    border-color: teal;
+    margin-top: 15px background: grey;
+    margin-top: 20px;
+    background-color: teal;
+    margin-left: 118px;
+}
+
+.rows {
+      width: 50px;
+    height: 50px;
+    /* margin: 6px; */
+    float: left;
+    border-radius: 10px;
+    border: 3px solid teal;
+    text-align: center;
+    line-height: 50px;
+    padding-right: 1px;
+    font-size: 20px;
+    font-weight: bold;
+    color: teal;
+    margin: 10px 0px 0px 10px;
+}
+.clearfix{
+  clear:both;}
